@@ -60,7 +60,7 @@ plt.show()
 ```
 
 ## Output:
-![EXPIREMENT - 1_page-0001](https://github.com/SudharsanamRK/Find-the-best-fit-line-using-Least-Squares-Method/assets/115523484/27bfc8b6-8663-4401-b231-a4ce4751a021)
+![EX01](https://github.com/SudharsanamRK/Find-the-best-fit-line-using-Least-Squares-Method/assets/115523484/ef371a05-c6ac-47c9-83a4-57d79d9f58fd)
 
 
 
